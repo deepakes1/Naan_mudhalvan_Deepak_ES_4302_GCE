@@ -1,7 +1,7 @@
 
 Naan Mudhalvan project
 
-Name :Deepak E S
+Name :Deepak ES
 Reg no. :731121104302
 college : Government College of Engineering,Erode.
 
